@@ -1,6 +1,6 @@
-![logo]()
+![logo](https://github.com/Sushmasree17/Sushmasree17/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sushma Sree R</h1>
-<h3 align="center">Data pragmatist </h3>
+<h3 align="center">Data Pragmatist </h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/002/885/152/non_2x/online-meeting-work-from-home-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushmasree17&label=Profile%20views&color=0e75b6&style=flat" alt="Sushmasree" /> </p>
