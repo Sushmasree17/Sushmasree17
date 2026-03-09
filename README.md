@@ -5,18 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushmasree17&label=Profile%20views&color=0e75b6&style=flat" alt="Sushmasree" /> </p>
 
-- 👨‍💻 All of my projects are available at [@@@@@@](@@@@@@@)
-
 - 💬 Ask me about **Data Analytics & Engineering, Business Intelligence, Machine Learning, GenAI, Content Creation**
 
 - 📫 How to reach me **sushmasreeramachandra@gmail.com**
 
-- 📄 Know about my experiences [@@@@@@](######)
+- 📄 Know about my experiences [Sushma Sree CV](https://drive.google.com/file/d/1KKSyRHUP1MqKAJieSwOiXVGXcnhv9Wje/view?usp=sharing)
 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/sushmasreeramachandra/)) 
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](@@@@@@)
 
 
 ### 💻 Tech Stack:
